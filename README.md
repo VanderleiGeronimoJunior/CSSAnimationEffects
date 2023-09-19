@@ -35,7 +35,7 @@ Projeto do Canal do Youtube de - <a href="https://www.youtube.com/watch?v=_eGgLi
 
 [⬆ Voltar ao topo](#indice)<br>
 
-#### Carousel de Filmes
+#### Animated Background
 
 <img style="width:300px" src="./img/screenshoteasy (2).png" alt="Cenario da animação, paisagem de fundo e dois carros de ppolicia.">
 
